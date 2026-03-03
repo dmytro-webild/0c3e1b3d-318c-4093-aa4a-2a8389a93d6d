@@ -56,6 +56,7 @@ export default function LandingPage() {
             {
               imageSrc: "http://img.b2bpic.net/free-photo/male-belt-sweater-accessories-clothes_1203-6421.jpg",              imageAlt: "Combo offer showcase"},
           ]}
+          mediaAnimation="slide-up"
           buttons={[
             { text: "Call Now", href: "tel:09630105490" },
             { text: "WhatsApp Us", href: "https://wa.me/919630105490" },
