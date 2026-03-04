@@ -23,11 +23,13 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Apna Mens Wear | Premium Menswear in Indore | Fast Delivery",  description: "Shop premium menswear collections - formal shirts, t-shirts, and combo offers. Fast delivery across Indore. Call 09630105490 or WhatsApp for bulk purchases.",  keywords: "mens wear, formal shirts, t-shirts, clothing, Indore, fast delivery, bulk purchase",  metadataBase: new URL("https://apnamenswear.com"),
   alternates: {
-    canonical: "https://apnamenswear.com"},
+    canonical: "https://apnamenswear.com"
+  },
   openGraph: {
     title: "Apna Mens Wear | Premium Menswear Collections",    description: "Discover high-quality menswear at affordable prices. Formal wear, t-shirts, and combo offers with fast Indore delivery.",    url: "https://apnamenswear.com",    siteName: "Apna Mens Wear",    type: "website",    images: [
       {
-        url: "http://img.b2bpic.net/free-photo/groom-preparing-his-wedding_1303-28300.jpg",        alt: "Premium menswear collection"},
+        url: "http://img.b2bpic.net/free-photo/groom-preparing-his-wedding_1303-28300.jpg",        alt: "Premium menswear collection"
+      },
     ],
   },
   twitter: {
