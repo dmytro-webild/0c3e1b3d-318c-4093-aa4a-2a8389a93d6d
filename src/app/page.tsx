@@ -61,7 +61,7 @@ export default function LandingPage() {
           ]}
           mediaAnimation="slide-up"
           buttons={[
-            { text: "Call Now", href: "tel:09630105490" },
+            { text: "Browse Collection", href: "#products" },
             { text: "WhatsApp Us", href: "https://wa.me/919630105490" },
           ]}
         />
