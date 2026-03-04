@@ -61,7 +61,7 @@ export default function LandingPage() {
           ]}
           mediaAnimation="slide-up"
           buttons={[
-            { text: "Browse Collection", href: "#products" },
+            { text: "Shop Now - Best Prices", href: "#products" },
             { text: "WhatsApp Us", href: "https://wa.me/919630105490" },
           ]}
         />
